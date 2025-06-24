@@ -1,0 +1,111 @@
+﻿@using TravelTripProject.Models.Classes
+@model List<Blog>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<body>
+    
+    
+    <div class="header-banner">
+        <div class="wrap">
+            <div class="banner">
+                <div class="indent">
+                    <h2 class="indent-left margin-bot">Kolay Gezi Rehberi</h2>
+                    <div class="banner-left">
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/glass.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Lokantalar</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/flight.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Uçuşlar</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/group.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Yapılacak Şeyler</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="con-text">
+                            <div class="grid1-img">
+                                <img src="~/web/images/key.png" alt="">
+                            </div>
+                            <div class="grid1-desc">
+                                <p>Araba Kiralama</p>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="header_bottom_right_images">
+
+                        <div class="slider">
+                            <ul class="rslides" style="width:650px;height:350px" id="slider1">
+                                @foreach(var z in Model) {
+                                <li><img src="@z.BlogImage" style="width:635px" alt="Foto Yok"></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class"content">
+        <div class="wrap">
+            <div class="wrapper">
+                <div class="con-top">
+                    <h3>Tatil Gezi Bloğuma Hoşgeldiniz!</h3>
+                    <p>
+                        Bu projeyi Haziran 2025 tarihinde başlatıp Temmuz 2025 tarihinde
+                        ana sayfa düzenlemelerine getirdik. Gezip gördüğüm yerleri
+                        sizlerle paylaşmak için kodlamasını tamamen kendim yaptığım mvc5
+                        üzerine kurulu dinamik bir web projesi geliştirdik. Hem
+                        Türkiye'den hem de yurt dışından gezip gördüğüm yerleri blog
+                        yazıları olarak sizlerle paylaşma niyetindeyim. Umuyorum ki
+                        yazdıklarımı beğenirsiniz, keyifli okumalar, sağlıklı günler.
+                    </p>
+                </div>
+                @* @Html.Action("Partial1","Default") ---->  Bu şu demek:
+                    'Default' controlleri içindeki' Partial1 adında bir actionResult (PartialViewResult) ve ona ait bir view var. sayfada ilgili bir kısmı ayrı bir view'e alıp 
+                    istediğimiz zaman o view'i başka view'in içinde çağırmaktır.'*@
+                <div class="grids">
+                    <div class="box1">
+                        @Html.Action("Partial1", "Default");
+                        @Html.Action("Partial2", "Default");
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
+
+

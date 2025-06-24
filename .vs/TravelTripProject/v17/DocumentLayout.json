@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|c:\\users\\efe.erdogan\\source\\repos\\traveltripproject\\traveltripproject\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC295F4-8169-4038-A7D2-43C389366CAF}|TravelTripProject\\TravelTripProject.csproj|solutionrelative:traveltripproject\\models\\classes\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YorumYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Blog\\YorumYap.cshtml",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Blog\\YorumYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T06:38:40.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T06:35:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "TravelTripProject\\Controllers\\GirisYapController.cs",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "TravelTripProject\\Controllers\\GirisYapController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:21:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T06:20:18.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YeniBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\Admin\\YeniBlog.cshtml",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\Admin\\YeniBlog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T06:20:16.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Models\\Classes\\Blog.cs",
+              "RelativeDocumentMoniker": "TravelTripProject\\Models\\Classes\\Blog.cs",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Models\\Classes\\Blog.cs",
+              "RelativeToolTip": "TravelTripProject\\Models\\Classes\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:20:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TravelTripProject\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TravelTripProject\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T06:19:44.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\GirisYap\\Login.cshtml",
+              "RelativeDocumentMoniker": "TravelTripProject\\Views\\GirisYap\\Login.cshtml",
+              "ToolTip": "C:\\Users\\efe.erdogan\\source\\repos\\TravelTripProject\\TravelTripProject\\Views\\GirisYap\\Login.cshtml",
+              "RelativeToolTip": "TravelTripProject\\Views\\GirisYap\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T06:10:32.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

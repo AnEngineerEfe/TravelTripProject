@@ -1,0 +1,27 @@
+﻿@using TravelTripProject.Models.Classes
+@model List<Blog>
+<div class="padding">
+    <h4>Bu Haftanın 10 Bloğu</h4>
+    @{ int i = 0;}   @* loop sağlar*@
+    @foreach (var x in Model)
+    {
+        <ul class="list list-pad">
+
+
+            <li class="list-bg"><span>@{i++;} @i.</span><a href="/Hotels/@x.ID">@x.Baslik</a></li>
+            <li class="list-bg"><span></span>@x.Aciklama.Substring(0, 30)</li>
+            <li class="list-bg"><span></span>@x.Tarih.ToString("dd.MM.yyyy")</li>
+        </ul>
+    }
+    <a href="/Hotels/" class="link1">Tüm Otelleri Görün</a>
+</div>
+
+@* Partial içinde de partial olabilir.
+        Mesela bur partial viewdeki şu kod satırlarını:
+        
+    @foreach(var x in Model) {
+    <ul class="list list-pad">
+        <li class="list-bg"><span>1.</span><a href="/Hotels/@x.ID">@x.Baslik</a></li>
+    </ul>
+    
+    ayrı bir partial view içine alıp oraya koyabilirim.Buraya da HTML action ile çağırırız.*@
